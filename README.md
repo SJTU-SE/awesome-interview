@@ -32,3 +32,6 @@ ___
 
 ### 美团
 - [shenhliu](https://github.com/shenhliu/interview/tree/main/%E7%BE%8E%E5%9B%A2)
+
+### 野村
+- [ZA](https://github.com/Ao-zhang/Interview/blob/master/numora)
