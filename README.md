@@ -6,11 +6,15 @@
   - [目录](#目录)
   - [项目介绍](#项目介绍)
   - [企业列表](#企业列表)
-    - [Alibaba](#alibaba)
+    - [Alibaba Group](#alibaba-group)
+    - [Ant Group](#ant-group)
+    - [ByteDance](#bytedance)
     - [Baidu](#baidu)
     - [Meituan](#meituan)
     - [Morgan Stanley](#morgan-stanley)
     - [Nomura](#nomura)
+    - [PingCAP](#pingcap)
+    - [Tencent](#tencent)
 
 ___
 
@@ -24,9 +28,17 @@ ___
 
 以下是各企业的列表，顺序为企业英文名称的字典序：
 
-### Alibaba
+### Alibaba Group
 
 - [shenhliu](https://github.com/shenhliu/interview/tree/main/%E9%98%BF%E9%87%8C)
+
+### Ant Group
+
+- [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/antgroup.md)
+
+### ByteDance
+
+- [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/bytedance.md)
 
 ### Baidu
 
@@ -35,12 +47,22 @@ ___
 ### Meituan
 
 - [shenhliu](https://github.com/shenhliu/interview/tree/main/%E7%BE%8E%E5%9B%A2)
+- [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/meituan.md)
 
 ### Morgan Stanley
 
 - [ZA](https://github.com/Ao-zhang/Interview/blob/master/morgan)
 - [Alan](https://github.com/AlanHN/Interview-Logs/blob/main/Morgan.md)
+- [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/morganstanley.md)
 
 ### Nomura
 
 - [ZA](https://github.com/Ao-zhang/Interview/blob/master/numora)
+
+### PingCAP
+
+- [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/pingcap.md)
+
+### Tencent
+
+- [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/tencent.md)
