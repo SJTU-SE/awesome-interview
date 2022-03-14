@@ -15,6 +15,7 @@
     - [Nomura](#nomura)
     - [PingCAP](#pingcap)
     - [Tencent](#tencent)
+    - [Microsoft](#microsoft)
 
 ___
 
@@ -39,6 +40,7 @@ ___
 ### ByteDance
 
 - [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/bytedance.md)
+- [WindowsXp-Beta](https://github.com/WindowsXp-Beta/interview-records/tree/main/2022%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0)
 
 ### Baidu
 
@@ -66,3 +68,7 @@ ___
 ### Tencent
 
 - [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/tencent.md)
+
+### Microsoft
+
+- [WindowsXp-Beta](https://github.com/WindowsXp-Beta/interview-records/tree/main/2022%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0)
