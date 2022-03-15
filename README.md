@@ -36,6 +36,7 @@ ___
 ### Ant Group
 
 - [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/antgroup.md)
+- [Zihong Lin](https://github.com/Okabe-Rintarou-0/Interview/blob/main/Ant_Group/README.md)
 
 ### ByteDance
 
