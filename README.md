@@ -10,6 +10,7 @@
     - [Ant Group](#ant-group)
     - [ByteDance](#bytedance)
     - [Baidu](#baidu)
+    - [Intel](#intel)
     - [Meituan](#meituan)
     - [Morgan Stanley](#morgan-stanley)
     - [Nomura](#nomura)
@@ -42,10 +43,14 @@ ___
 
 - [rudeigerc](https://github.com/Luminous-Moonlight/Office-Squad/blob/main/experiences/rudeigerc/bytedance.md)
 - [WindowsXp-Beta](https://github.com/WindowsXp-Beta/interview-records/tree/main/2022%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0)
+- [Electronic-Waste](https://github.com/Electronic-Waste/My-Job-Hunting/blob/main/interview/ByteDance.md)
 
 ### Baidu
 
 - [shenhliu](https://github.com/shenhliu/interview/tree/main/%E7%99%BE%E5%BA%A6)
+
+### Intel
+- [Electronic-Waste](https://github.com/Electronic-Waste/My-Job-Hunting/blob/main/interview/Intel.md)
 
 ### Meituan
 
